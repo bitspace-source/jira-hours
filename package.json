@@ -1,13 +1,10 @@
 {
-  "name": "jirahours",
-  "version": "1.0.0",
-  "description": "",
+  "name": "jira-hours",
+  "version": "1.0.1",
+  "description": "node.js program that generates a report of logged work hours per JIRA user per work month",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Thor Harald Johansen <thor@bitspace.no>",
+  "license": "GPLv2",
   "dependencies": {
     "dateformat": "^2.0.0"
   }
