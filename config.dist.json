@@ -1,0 +1,8 @@
+{
+    "hostname": "hostname.atlassian.net",
+    "port": 443,
+    "auth": "username:password",
+
+    "fullTimeHoursPerDay": 7.5,
+    "payDate": 20
+}
